@@ -1,2 +1,3 @@
 - [简介](README.md)
 - [常见问题](QA.md)
+- [视频讲解](Video.md)
