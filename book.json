@@ -1,9 +1,9 @@
 {
-    "root": "./",
-    "title": "示例文档",
-    "head_title": "_示例文档_字条网",
-    "head_description": "字条网示例文档",
-    "head_keywords": "字条,字条网,示例文档",
+    "root": "./docs",
+    "title": "极致云驾校帮助中心",
+    "head_title": "_极致云驾校帮助中心",
+    "head_description": "极致云驾校帮助中心",
+    "head_keywords": "极致驾服,云驾校,帮助,中心",
     "logo": "./images/logo.png",
 
     "gitbook": ">= 3.0.0",
